@@ -1,0 +1,97 @@
+09:24:23 2016-07-18 INFO: log folder delete: 0
+09:24:23 2016-07-18 INFO: **************ThenTools first run*********************
+09:24:24 2016-07-18 INFO: connect to DB
+09:24:24 2016-07-18 WARNING: read initflag=yes
+09:24:24 2016-07-18 INFO: Get Language=CN
+09:24:24 2016-07-18 INFO: NowVer=UpdateV20160612
+09:24:24 2016-07-18 INFO: FTPVer=UpdateV20160612
+09:24:24 2016-07-18 INFO: get new version by FTP UpdateV20160612
+09:24:24 2016-07-18 INFO: no new version
+09:24:24 2016-07-18 INFO: No need to update by FTP
+09:24:24 2016-07-18 INFO: mAndroidDebugBridge success
+09:24:24 2016-07-18 INFO: adb version is  1.0.32
+09:24:24 2016-07-18 INFO: 7z version is 15.14
+09:24:24 2016-07-18 INFO: current directory: E:\ADTworkspace\ThenTools/extraBin
+09:24:25 2016-07-18 INFO: plug in devices ID=cd10d6ef
+09:24:25 2016-07-18 INFO: Item Update
+09:24:25 2016-07-18 INFO: update devices ID=cd10d6ef
+09:24:31 2016-07-18 INFO: press btnHiddenlog button
+09:24:58 2016-07-18 INFO: press btnHiddenlog button
+09:24:59 2016-07-18 INFO: set auto=true
+09:25:01 2016-07-18 INFO: hidden log settring ok button
+09:25:03 2016-07-18 INFO: active log with userdebug
+09:25:03 2016-07-18 INFO: active log button
+09:25:03 2016-07-18 INFO: start to open hidden log
+09:25:05 2016-07-18 INFO: restarting adbd as root
+
+09:25:05 2016-07-18 INFO: Item Update
+09:25:05 2016-07-18 INFO: cancel one devices
+09:25:05 2016-07-18 INFO: select devices ID=null
+09:25:14 2016-07-18 INFO: Auto root failed, pls try again or root by handle when open hidden log!
+09:25:53 2016-07-18 INFO: plug in devices ID=cd10d618
+09:25:53 2016-07-18 INFO: Item Update
+09:25:53 2016-07-18 INFO: update devices ID=cd10d618
+09:26:08 2016-07-18 INFO: press btnHiddenlog button
+09:28:47 2016-07-18 INFO: go to MTKUImain by menu
+09:28:51 2016-07-18 INFO: go to ThenHelperAPKUImain by menu
+09:28:56 2016-07-18 INFO: Item Update
+09:28:56 2016-07-18 INFO: cancel one devices
+09:28:56 2016-07-18 INFO: select devices ID=null
+09:28:58 2016-07-18 INFO: plug in devices ID=cd10d618
+09:28:58 2016-07-18 INFO: Item Update
+09:28:58 2016-07-18 INFO: update devices ID=cd10d618
+09:29:08 2016-07-18 INFO: install ThenHelperV1.1202e.apk ok
+09:29:23 2016-07-18 INFO: go to GetScreenUImain by menu
+09:29:25 2016-07-18 INFO: button Mirror start
+09:29:29 2016-07-18 INFO: Start to mirror with device: cd10d618
+09:29:29 2016-07-18 INFO: Start to mirror thread
+09:29:32 2016-07-18 INFO: Screen Mirror windowClosing
+09:29:33 2016-07-18 INFO: end mirrorui thread.
+09:29:37 2016-07-18 INFO: start startrecordthread
+09:29:37 2016-07-18 INFO: start screen record button
+09:29:41 2016-07-18 INFO: stop screen record button
+09:29:45 2016-07-18 INFO: get screen record button
+09:42:05 2016-07-18 INFO: cancel screen record button
+09:42:10 2016-07-18 INFO: Pls screen cap first!tap show button
+09:42:22 2016-07-18 INFO: get arow=15 arowword=80 showduplicate=false Isreconnect=true
+09:42:22 2016-07-18 INFO: go to MonkeyUImain by menu
+09:42:23 2016-07-18 INFO: monkey monitor button
+09:42:31 2016-07-18 INFO: UE has no log and continue
+09:42:31 2016-07-18 INFO: active monkey monitor
+09:42:31 2016-07-18 INFO: monkey monitor active button
+09:42:31 2016-07-18 INFO: create new monkey monitor log: cd10d618_2016_0718_0942_31.log
+09:42:31 2016-07-18 INFO: Monkey Monitor active successful
+09:42:32 2016-07-18 INFO: System monkey seed=22296  intervals=1000
+09:42:43 2016-07-18 INFO: adb shell kill 12577
+09:42:43 2016-07-18 INFO: monkey monitor end
+09:42:43 2016-07-18 INFO: Stop monkey in phone
+09:42:43 2016-07-18 INFO: MonkeyStop check no monkey run  
+09:42:52 2016-07-18 INFO: monkey monitor stop button: yes
+09:43:02 2016-07-18 INFO: monkey monitor button
+09:43:05 2016-07-18 INFO: no selected file to analysis
+09:43:06 2016-07-18 INFO: monkey monitor analysis button: no file selected
+09:44:41 2016-07-18 INFO: go to ChecktpUImain by menu
+09:44:44 2016-07-18 INFO: check TP thread start
+09:44:44 2016-07-18 INFO: start monitor button
+09:44:44 2016-07-18 INFO: checktp paintComponent no image!
+09:44:46 2016-07-18 INFO: image y=1280,x=720
+09:44:57 2016-07-18 INFO: change color button
+09:45:06 2016-07-18 INFO: check tp and get image ok
+09:45:07 2016-07-18 INFO: stop monitor button
+09:46:42 2016-07-18 INFO: go to autoscriptUImain by menu
+09:46:44 2016-07-18 INFO: auto change image thread start
+09:46:44 2016-07-18 INFO: record script thread start
+09:46:44 2016-07-18 INFO: start Script Record button
+09:46:44 2016-07-18 INFO: autoscript paintComponent no image!
+09:46:58 2016-07-18 INFO: auto script and get image ok
+09:46:59 2016-07-18 INFO: stop record script button
+09:48:30 2016-07-18 INFO: go to OthersUImain by menu
+09:48:39 2016-07-18 INFO: tap About button
+09:48:43 2016-07-18 INFO:  ID: A37DC613374376B5A5947E41B264FF8E
+09:48:43 2016-07-18 INFO: tap lisence button
+09:48:47 2016-07-18 INFO: close AboutLisenceUI
+09:48:48 2016-07-18 INFO: close ThenTools
+09:48:48 2016-07-18 INFO: try to adb terminate
+09:48:48 2016-07-18 INFO: adb terminate ok
+09:48:48 2016-07-18 WARNING: java.sql.SQLNonTransientConnectionException: 数据库“E:\ADTworkspace\ThenTools/data/DB”已关闭。
+09:48:48 2016-07-18 INFO: close DB

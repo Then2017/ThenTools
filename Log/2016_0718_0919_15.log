@@ -1,0 +1,49 @@
+09:19:15 2016-07-18 INFO: log folder delete: 0
+09:19:15 2016-07-18 INFO: **************ThenTools first run*********************
+09:19:15 2016-07-18 INFO: connect to DB
+09:19:15 2016-07-18 WARNING: read initflag=yes
+09:19:15 2016-07-18 INFO: Get Language=CN
+09:19:16 2016-07-18 INFO: NowVer=UpdateV20160612
+09:19:16 2016-07-18 INFO: FTPVer=UpdateV20160612
+09:19:16 2016-07-18 INFO: get new version by FTP UpdateV20160612
+09:19:16 2016-07-18 INFO: no new version
+09:19:16 2016-07-18 INFO: No need to update by FTP
+09:19:16 2016-07-18 INFO: mAndroidDebugBridge success
+09:19:16 2016-07-18 INFO: adb version is  1.0.32
+09:19:16 2016-07-18 INFO: 7z version is 15.14
+09:19:16 2016-07-18 INFO: current directory: E:\ADTworkspace\ThenTools/extraBin
+09:19:16 2016-07-18 INFO: plug in devices ID=cd10d6ef
+09:19:16 2016-07-18 INFO: Item Update
+09:19:16 2016-07-18 INFO: update devices ID=cd10d6ef
+09:19:23 2016-07-18 INFO: stop and del log button2
+09:19:23 2016-07-18 INFO: adb shell kill 12877
+09:19:23 2016-07-18 INFO: adb shell kill 12887
+09:19:23 2016-07-18 INFO: adb shell kill 12888
+09:19:23 2016-07-18 INFO: adb shell kill 14458
+09:19:23 2016-07-18 INFO: Stop catchlog in phone
+09:19:23 2016-07-18 INFO: del CatchLog folder in phone
+09:19:34 2016-07-18 INFO: stop and del log 
+09:19:45 2016-07-18 INFO: active log
+09:19:45 2016-07-18 INFO: active log button
+09:19:46 2016-07-18 INFO: Active  adb & dmesg logs for successfully!
+09:19:57 2016-07-18 INFO: del tempdata when exit!
+09:20:01 2016-07-18 INFO: press btnHiddenlog button
+09:20:02 2016-07-18 INFO: set isreconnect=true
+09:20:03 2016-07-18 INFO: hidden log settring ok button
+09:20:05 2016-07-18 INFO: stop and del log button2
+09:20:05 2016-07-18 INFO: adb shell kill 12877
+09:20:05 2016-07-18 INFO: adb shell kill 14931
+09:20:05 2016-07-18 INFO: adb shell kill 14935
+09:20:05 2016-07-18 INFO: adb shell kill 14937
+09:20:05 2016-07-18 INFO: adb shell kill 15343
+09:20:05 2016-07-18 INFO: Stop catchlog in phone
+09:20:05 2016-07-18 INFO: del CatchLog folder in phone
+09:20:14 2016-07-18 INFO: stop and del log 
+09:20:19 2016-07-18 INFO: active log with userdebug
+09:20:19 2016-07-18 INFO: active log button
+09:20:28 2016-07-18 INFO: Device must root first, and then can open hidden log!
+09:24:20 2016-07-18 INFO: close ThenTools
+09:24:20 2016-07-18 INFO: try to adb terminate
+09:24:20 2016-07-18 INFO: adb terminate ok
+09:24:20 2016-07-18 WARNING: java.sql.SQLNonTransientConnectionException: 数据库“E:\ADTworkspace\ThenTools/data/DB”已关闭。
+09:24:20 2016-07-18 INFO: close DB

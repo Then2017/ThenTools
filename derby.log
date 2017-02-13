@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Nov 15 15:11:06 CST 2016:
+正在使用类加载程序 sun.misc.Launcher$AppClassLoader@73d16e93 引导数据库
+目录 E:\ADTworkspace\ThenTools\data\DB 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) 实例 a816c00e-0158-66d3-3266-00000cf87cd0
+已从 file:/C:/Program%20Files/Java/jdk1.8.0_91/db/lib/derby.jar 加载
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=E:\ADTworkspace\ThenTools
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+数据库类加载程序已启动 - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Nov 15 15:11:15 CST 2016:
+正在使用类加载程序 sun.misc.Launcher$AppClassLoader@73d16e93 关闭数据库目录 E:\ADTworkspace\ThenTools\data\DB 上的实例 a816c00e-0158-66d3-3266-00000cf87cd0

@@ -1,0 +1,39 @@
+09:53:02 2016-07-18 INFO: log folder delete: 0
+09:53:02 2016-07-18 INFO: **************ThenTools first run*********************
+09:53:02 2016-07-18 INFO: connect to DB
+09:53:02 2016-07-18 WARNING: read initflag=yes
+09:53:02 2016-07-18 INFO: Get Language=CN
+09:53:02 2016-07-18 INFO: NowVer=UpdateV20160612
+09:53:02 2016-07-18 INFO: mAndroidDebugBridge success
+09:53:02 2016-07-18 INFO: adb version is  1.0.32
+09:53:03 2016-07-18 INFO: 7z version is 15.14
+09:53:03 2016-07-18 INFO: current directory: E:\ADTworkspace\ThenTools/extraBin
+09:53:03 2016-07-18 INFO: plug in devices ID=cd10d618
+09:53:03 2016-07-18 INFO: Item Update
+09:53:03 2016-07-18 INFO: update devices ID=cd10d618
+09:53:13 2016-07-18 INFO: press btnHiddenlog button
+09:53:14 2016-07-18 INFO: FTPVer=UpdateV20160612
+09:53:14 2016-07-18 INFO: get new version by FTP UpdateV20160612
+09:53:14 2016-07-18 INFO: no new version
+09:53:14 2016-07-18 INFO: No need to update by FTP
+09:53:15 2016-07-18 INFO: set isreconnect=false
+09:53:18 2016-07-18 INFO: hidden log settring ok button
+09:53:23 2016-07-18 INFO: active log
+09:53:23 2016-07-18 INFO: active log button
+09:53:24 2016-07-18 INFO: Active  adb & dmesg logs for successfully!
+09:53:38 2016-07-18 INFO: del tempdata when exit!
+09:53:45 2016-07-18 INFO: stop and del log button2
+09:53:45 2016-07-18 INFO: adb shell kill 325
+09:53:45 2016-07-18 INFO: adb shell kill 887
+09:53:45 2016-07-18 INFO: adb shell kill 894
+09:53:45 2016-07-18 INFO: adb shell kill 896
+09:53:45 2016-07-18 INFO: adb shell kill 1861
+09:53:45 2016-07-18 INFO: Stop catchlog in phone
+09:53:46 2016-07-18 INFO: del CatchLog folder in phone
+09:53:52 2016-07-18 INFO: stop and del log 
+09:53:58 2016-07-18 INFO: press btnHiddenlog button
+09:54:28 2016-07-18 INFO: close ThenTools
+09:54:28 2016-07-18 INFO: try to adb terminate
+09:54:28 2016-07-18 INFO: adb terminate ok
+09:54:28 2016-07-18 WARNING: java.sql.SQLNonTransientConnectionException: 数据库“E:\ADTworkspace\ThenTools/data/DB”已关闭。
+09:54:28 2016-07-18 INFO: close DB

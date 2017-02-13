@@ -1,0 +1,104 @@
+09:57:42 2016-07-18 INFO: log folder delete: 0
+09:57:42 2016-07-18 INFO: **************ThenTools first run*********************
+09:57:43 2016-07-18 INFO: connect to DB
+09:57:43 2016-07-18 WARNING: read initflag=yes
+09:57:43 2016-07-18 INFO: Get Language=CN
+09:57:43 2016-07-18 INFO: NowVer=UpdateV20160612
+09:57:43 2016-07-18 INFO: FTPVer=UpdateV20160612
+09:57:43 2016-07-18 INFO: get new version by FTP UpdateV20160612
+09:57:43 2016-07-18 INFO: no new version
+09:57:43 2016-07-18 INFO: No need to update by FTP
+09:57:43 2016-07-18 INFO: mAndroidDebugBridge success
+09:57:43 2016-07-18 INFO: adb version is  1.0.32
+09:57:43 2016-07-18 INFO: 7z version is 15.14
+09:57:43 2016-07-18 INFO: current directory: E:\ADTworkspace\ThenTools/extraBin
+09:57:44 2016-07-18 INFO: plug in devices ID=cd10d618
+09:57:44 2016-07-18 INFO: Item Update
+09:57:44 2016-07-18 INFO: update devices ID=cd10d618
+09:57:54 2016-07-18 INFO: Item Update
+09:57:54 2016-07-18 INFO: cancel one devices
+09:57:54 2016-07-18 INFO: select devices ID=null
+09:57:55 2016-07-18 INFO: plug in devices ID=cd10d618
+09:57:55 2016-07-18 INFO: Item Update
+09:57:55 2016-07-18 INFO: update devices ID=cd10d618
+09:58:00 2016-07-18 INFO: press btnHiddenlog button
+09:58:04 2016-07-18 INFO: active log with userdebug
+09:58:04 2016-07-18 INFO: start to open hidden log
+09:58:04 2016-07-18 INFO: active log button
+09:58:06 2016-07-18 INFO: restarting adbd as root
+
+09:58:06 2016-07-18 INFO: Item Update
+09:58:06 2016-07-18 INFO: cancel one devices
+09:58:06 2016-07-18 INFO: select devices ID=null
+09:58:07 2016-07-18 INFO: plug in devices ID=cd10d618
+09:58:07 2016-07-18 INFO: Item Update
+09:58:07 2016-07-18 INFO: update devices ID=cd10d618
+09:58:12 2016-07-18 INFO: open :setprop log.tag.Telecom V  result: 
+09:58:12 2016-07-18 INFO: open :setprop log.tag.InCall V  result: 
+09:58:12 2016-07-18 INFO: open :setprop log.tag.ContactsPref V  result: 
+09:58:12 2016-07-18 INFO: open :setprop log.tag.Telephony V  result: 
+09:58:12 2016-07-18 INFO: open :setprop log.tag.Mms V  result: 
+09:58:33 2016-07-18 INFO: Active  adb & kmsg logs for successfully with hidden log!
+09:58:43 2016-07-18 INFO: del tempdata when exit!
+09:58:57 2016-07-18 INFO: stop and del log button2
+09:58:57 2016-07-18 INFO: adb shell kill 325
+09:58:57 2016-07-18 INFO: adb shell kill 12368
+09:58:57 2016-07-18 INFO: adb shell kill 12376
+09:58:57 2016-07-18 INFO: adb shell kill 12385
+09:58:57 2016-07-18 INFO: adb shell kill 12393
+09:58:57 2016-07-18 INFO: adb shell kill 15231
+09:58:57 2016-07-18 INFO: Stop catchlog in phone
+09:58:58 2016-07-18 INFO: del CatchLog folder in phone
+09:59:01 2016-07-18 INFO: Item Update
+09:59:01 2016-07-18 INFO: cancel one devices
+09:59:01 2016-07-18 INFO: select devices ID=null
+09:59:02 2016-07-18 INFO: plug in devices ID=cd10d618
+09:59:02 2016-07-18 INFO: Item Update
+09:59:02 2016-07-18 INFO: update devices ID=cd10d618
+09:59:07 2016-07-18 INFO: stop and del log 
+09:59:10 2016-07-18 INFO: press btnHiddenlog button
+09:59:11 2016-07-18 INFO: set debug isreconnect=false
+09:59:11 2016-07-18 INFO: hidden log settring ok button
+09:59:13 2016-07-18 INFO: active log
+09:59:13 2016-07-18 INFO: active log button
+09:59:14 2016-07-18 INFO: Active  adb & kmsg logs for successfully!
+09:59:21 2016-07-18 INFO: del tempdata when exit!
+09:59:23 2016-07-18 INFO: press btnHiddenlog button
+09:59:24 2016-07-18 INFO: set debug isreconnect=true
+09:59:25 2016-07-18 INFO: hidden log settring ok button
+09:59:26 2016-07-18 INFO: stop and del log button2
+09:59:26 2016-07-18 INFO: adb shell kill 325
+09:59:26 2016-07-18 INFO: adb shell kill 16367
+09:59:26 2016-07-18 INFO: adb shell kill 16371
+09:59:27 2016-07-18 INFO: adb shell kill 16373
+09:59:27 2016-07-18 INFO: adb shell kill 16378
+09:59:27 2016-07-18 INFO: adb shell kill 17315
+09:59:27 2016-07-18 INFO: Stop catchlog in phone
+09:59:27 2016-07-18 INFO: del CatchLog folder in phone
+09:59:37 2016-07-18 INFO: stop and del log 
+09:59:55 2016-07-18 INFO: stop and del log button2
+09:59:55 2016-07-18 INFO: adb shell kill 325
+09:59:55 2016-07-18 INFO: adb shell kill 16367
+09:59:55 2016-07-18 INFO: adb shell kill 18616
+09:59:55 2016-07-18 INFO: Stop catchlog in phone
+09:59:56 2016-07-18 INFO: del CatchLog folder in phone
+10:00:02 2016-07-18 INFO: stop and del log 
+10:00:05 2016-07-18 INFO: stop and del log button2
+10:00:05 2016-07-18 INFO: adb shell kill 325
+10:00:05 2016-07-18 INFO: adb shell kill 16367
+10:00:05 2016-07-18 INFO: adb shell kill 18936
+10:00:05 2016-07-18 INFO: Stop catchlog in phone
+10:00:05 2016-07-18 INFO: del CatchLog folder in phone
+10:00:13 2016-07-18 INFO: stop and del log 
+10:00:19 2016-07-18 INFO: stop and del log button2
+10:00:19 2016-07-18 INFO: adb shell kill 325
+10:00:19 2016-07-18 INFO: adb shell kill 16367
+10:00:19 2016-07-18 INFO: adb shell kill 19509
+10:00:19 2016-07-18 INFO: Stop catchlog in phone
+10:00:19 2016-07-18 INFO: del CatchLog folder in phone
+10:00:28 2016-07-18 INFO: stop and del log 
+10:02:46 2016-07-18 INFO: close ThenTools
+10:02:46 2016-07-18 INFO: try to adb terminate
+10:02:46 2016-07-18 INFO: adb terminate ok
+10:02:47 2016-07-18 WARNING: java.sql.SQLNonTransientConnectionException: 数据库“E:\ADTworkspace\ThenTools/data/DB”已关闭。
+10:02:47 2016-07-18 INFO: close DB

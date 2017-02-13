@@ -1,0 +1,11 @@
+17:39:21 2016-11-09 INFO: log folder delete: 0
+17:39:21 2016-11-09 INFO: **************ThenTools first run*********************
+17:39:22 2016-11-09 INFO: connect to DB
+17:39:22 2016-11-09 WARNING: read initflag=yes
+17:39:22 2016-11-09 WARNING: Lisence has been expired! You see, pls support us!
+17:39:28 2016-11-09 INFO:  ID: F06C47A816386FD822B1886844319412
+17:39:35 2016-11-09 INFO: close ThenTools with no lisence
+17:39:35 2016-11-09 INFO: try to adb terminate
+17:39:35 2016-11-09 INFO: adb terminate ok
+17:39:35 2016-11-09 WARNING: java.sql.SQLNonTransientConnectionException: 数据库“E:\ADTworkspace\ThenTools/data/DB”已关闭。
+17:39:35 2016-11-09 INFO: close DB

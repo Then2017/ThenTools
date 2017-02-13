@@ -1,0 +1,88 @@
+14:35:50 2016-11-10 INFO: log folder delete: 0
+14:35:50 2016-11-10 INFO: **************ThenTools first run*********************
+14:35:50 2016-11-10 INFO: connect to DB
+14:35:50 2016-11-10 WARNING: read initflag=yes
+14:35:51 2016-11-10 INFO: Get Language=CN
+14:35:51 2016-11-10 INFO: NowVer=UpdateV120160612
+14:35:51 2016-11-10 INFO: FTPVer=UpdateV120160612
+14:35:51 2016-11-10 INFO: get new version by FTP UpdateV120160612
+14:35:51 2016-11-10 INFO: no new version
+14:35:51 2016-11-10 INFO: No need to update by FTP
+14:35:51 2016-11-10 INFO: mAndroidDebugBridge success
+14:35:51 2016-11-10 INFO: adb version is  1.0.32
+14:35:51 2016-11-10 INFO: 7z version is 15.14
+14:35:51 2016-11-10 INFO: current directory: E:\ADTworkspace\ThenTools/extraBin
+14:35:52 2016-11-10 INFO: plug in devices ID=ZXQ123123
+14:35:52 2016-11-10 INFO: Item Update
+14:35:52 2016-11-10 INFO: update devices ID=ZXQ123123
+14:36:00 2016-11-10 INFO: go to MTKUImain by menu
+14:36:01 2016-11-10 INFO: go to ThenHelperAPKUImain by menu
+14:36:02 2016-11-10 INFO: go to GetScreenUImain by menu
+14:36:04 2016-11-10 INFO: get arow=15 arowword=80 showduplicate=false Isreconnect=true
+14:36:04 2016-11-10 INFO: go to MonkeyUImain by menu
+14:36:07 2016-11-10 INFO: go to ChecktpUImain by menu
+14:36:12 2016-11-10 INFO: tap mntmADBdriver button
+14:36:14 2016-11-10 INFO: go to OthersUImain by menu
+14:36:35 2016-11-10 INFO: tap About button
+14:36:38 2016-11-10 com.Main.MainUI$3 (mouseClicked) 19
+INFO: open hiden log successful by DVAlogo
+14:36:47 2016-11-10 com.Main.MainUI$6 (actionPerformed) 19
+INFO: go to MonkeyUImain by menu
+14:37:40 2016-11-10 com.Main.MainUI$16 (windowClosing) 19
+INFO: close ThenTools
+14:37:40 2016-11-10 com.Functions.AdbBridge (terminate) 19
+INFO: try to adb terminate
+14:37:40 2016-11-10 com.Functions.AdbBridge (terminate) 19
+INFO: adb terminate ok
+14:37:41 2016-11-10 com.Database.DBHandle (closeallDB) 19
+WARNING: java.sql.SQLNonTransientConnectionException: 数据库“E:\ADTworkspace\ThenTools/data/DB”已关闭。
+14:37:41 2016-11-10 com.Functions.LoggerUtil (printException) 19
+WARNING: java.sql.SQLNonTransientConnectionException: 数据库“E:\ADTworkspace\ThenTools/data/DB”已关闭。
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.AutoloadedDriver.connect(Unknown Source)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:270)
+	at com.Database.DBHandle.closeallDB(DBHandle.java:60)
+	at com.Database.DBHandle.closeDB(DBHandle.java:50)
+	at com.Main.MainUI$16.windowClosing(MainUI.java:702)
+	at java.awt.Window.processWindowEvent(Window.java:2058)
+	at javax.swing.JFrame.processWindowEvent(JFrame.java:305)
+	at java.awt.Window.processEvent(Window.java:2017)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Window.dispatchEventImpl(Window.java:2750)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: ERROR 08006: 数据库“E:\ADTworkspace\ThenTools/data/DB”已关闭。
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.shutdownDatabaseException(Unknown Source)
+	... 35 more
+
+14:37:41 2016-11-10 com.Database.DBHandle (closeallDB) 19
+INFO: close DB

@@ -1,0 +1,27 @@
+10:03:23 2016-07-18 INFO: log folder delete: 0
+10:03:23 2016-07-18 INFO: **************ThenTools first run*********************
+10:03:23 2016-07-18 WARNING: java.sql.SQLException: 无法使用类加载程序 sun.misc.Launcher$AppClassLoader@73d16e93 启动数据库 'E:\ADTworkspace\ThenTools/data/DB'，请参阅下一个异常错误，以了解详细信息。
+10:03:23 2016-07-18 WARNING: java.sql.SQLException: 数据库“E:\ADTworkspace\ThenTools/data/DB”未找到。
+10:03:23 2016-07-18 INFO: close DB
+10:03:30 2016-07-18 INFO: connect to DB
+10:03:30 2016-07-18 WARNING: read initflag=yes
+10:03:30 2016-07-18 INFO: Get Language=CN
+10:03:30 2016-07-18 INFO: NowVer=V20160612
+10:03:30 2016-07-18 INFO: mAndroidDebugBridge success
+10:03:30 2016-07-18 INFO: FTPVer=UpdateV20160612
+10:03:30 2016-07-18 INFO: get new version by FTP UpdateV20160612
+10:03:30 2016-07-18 INFO: copy file /Start.exe failed!!!
+10:03:30 2016-07-18 INFO: update file /Start.exe failed!!!
+10:03:30 2016-07-18 INFO: adb version is  1.0.32
+10:03:30 2016-07-18 INFO: 7z version is 15.14
+10:03:30 2016-07-18 INFO: current directory: E:\ADTworkspace\ThenTools/extraBin
+10:03:31 2016-07-18 INFO: plug in devices ID=cd10d618
+10:03:31 2016-07-18 INFO: Item Update
+10:03:31 2016-07-18 INFO: update devices ID=cd10d618
+10:03:31 2016-07-18 INFO: exit with update error
+10:03:33 2016-07-18 INFO: tap About button
+10:03:34 2016-07-18 INFO: close ThenTools
+10:03:34 2016-07-18 INFO: try to adb terminate
+10:03:34 2016-07-18 INFO: adb terminate ok
+10:03:34 2016-07-18 WARNING: java.sql.SQLNonTransientConnectionException: 数据库“E:\ADTworkspace\ThenTools/data/DB”已关闭。
+10:03:34 2016-07-18 INFO: close DB

@@ -1,0 +1,20 @@
+15:11:06 2016-11-15 INFO: log folder delete: 0
+15:11:06 2016-11-15 INFO: **************ThenTools first run*********************
+15:11:07 2016-11-15 INFO: connect to DB
+15:11:07 2016-11-15 WARNING: read initflag=yes
+15:11:07 2016-11-15 INFO: Get Language=CN
+15:11:07 2016-11-15 INFO: NowVer=UpdateV120160612
+15:11:07 2016-11-15 INFO: mAndroidDebugBridge success
+15:11:07 2016-11-15 INFO: adb version is  1.0.32
+15:11:07 2016-11-15 INFO: FTPVer=UpdateV120160612
+15:11:07 2016-11-15 INFO: get new version by FTP UpdateV120160612
+15:11:07 2016-11-15 INFO: no new version
+15:11:07 2016-11-15 INFO: No need to update by FTP
+15:11:07 2016-11-15 INFO: 7z version is 15.14
+15:11:07 2016-11-15 INFO: current directory: E:\ADTworkspace\ThenTools/extraBin
+15:11:08 2016-11-15 INFO: select devices ID=null
+15:11:15 2016-11-15 INFO: close ThenTools
+15:11:15 2016-11-15 INFO: try to adb terminate
+15:11:15 2016-11-15 INFO: adb terminate ok
+15:11:15 2016-11-15 WARNING: java.sql.SQLNonTransientConnectionException: 数据库“E:\ADTworkspace\ThenTools/data/DB”已关闭。
+15:11:15 2016-11-15 INFO: close DB

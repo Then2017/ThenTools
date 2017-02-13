@@ -1,0 +1,33 @@
+09:54:30 2016-07-18 INFO: log folder delete: 0
+09:54:30 2016-07-18 INFO: **************ThenTools first run*********************
+09:54:31 2016-07-18 INFO: connect to DB
+09:54:31 2016-07-18 WARNING: read initflag=yes
+09:54:31 2016-07-18 INFO: Get Language=CN
+09:54:31 2016-07-18 INFO: NowVer=UpdateV20160612
+09:54:31 2016-07-18 INFO: FTPVer=UpdateV20160612
+09:54:31 2016-07-18 INFO: get new version by FTP UpdateV20160612
+09:54:31 2016-07-18 INFO: no new version
+09:54:31 2016-07-18 INFO: No need to update by FTP
+09:54:31 2016-07-18 INFO: mAndroidDebugBridge success
+09:54:31 2016-07-18 INFO: adb version is  1.0.32
+09:54:31 2016-07-18 INFO: 7z version is 15.14
+09:54:31 2016-07-18 INFO: current directory: E:\ADTworkspace\ThenTools/extraBin
+09:54:32 2016-07-18 INFO: plug in devices ID=cd10d618
+09:54:32 2016-07-18 INFO: Item Update
+09:54:32 2016-07-18 INFO: update devices ID=cd10d618
+09:54:53 2016-07-18 INFO: active log with userdebug
+09:54:53 2016-07-18 INFO: active log button
+09:54:53 2016-07-18 INFO: start to open hidden log
+09:54:55 2016-07-18 INFO: restarting adbd as root
+
+09:54:55 2016-07-18 INFO: Item Update
+09:54:55 2016-07-18 INFO: cancel one devices
+09:54:55 2016-07-18 INFO: select devices ID=null
+09:54:58 2016-07-18 INFO: plug in devices ID=cd10d618
+09:54:58 2016-07-18 INFO: Item Update
+09:54:58 2016-07-18 INFO: update devices ID=cd10d618
+09:55:06 2016-07-18 INFO: Auto root failed, pls try again or root by handle when open hidden log!
+09:55:13 2016-07-18 INFO: tap About button
+09:55:54 2016-07-18 INFO:  ID: A37DC613374376B5A5947E41B264FF8E
+09:55:54 2016-07-18 INFO: tap lisence button
+09:55:56 2016-07-18 INFO: Active lisence ok
